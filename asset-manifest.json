@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Croissantage-2.0/static/css/main.073c9b0a.css",
+    "main.js": "/Croissantage-2.0/static/js/main.7b787317.js",
+    "static/js/787.3b123f87.chunk.js": "/Croissantage-2.0/static/js/787.3b123f87.chunk.js",
+    "static/media/logo.svg": "/Croissantage-2.0/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Croissantage-2.0/index.html",
+    "main.073c9b0a.css.map": "/Croissantage-2.0/static/css/main.073c9b0a.css.map",
+    "main.7b787317.js.map": "/Croissantage-2.0/static/js/main.7b787317.js.map",
+    "787.3b123f87.chunk.js.map": "/Croissantage-2.0/static/js/787.3b123f87.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7b787317.js"
+  ]
+}
